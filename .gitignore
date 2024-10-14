@@ -1,0 +1,9 @@
+test.txt
+debug
+*.exe
+edgex-app-template
+.vscode
+coverage.out
+logs/
+.idea
+VERSION
